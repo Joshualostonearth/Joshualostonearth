@@ -3,7 +3,7 @@
  🧠 Computer Science Student. <br/>
  💻 Strong interest in Ai, Software, Data science and ML fields.<br/>
  📈 Currently learning Ai fundamentals and working on projects.<br/>
-
+ 
  
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joshua-sunny-ninan-391517271/ ‎ ) 
